@@ -77,7 +77,7 @@ def html_footer():
     For more information, feel free to research Vipassana Mediation or click <a href="https://www.dhamma.org">here</a> to get started.
     </p>
     <p>
-    Source code can be found <a href="https://github.com/keenanromain">here</a> and all credits go to <a href="https://logomakr.com/">Logomakr</a> for the logo design.
+    Source code can be found <a href="https://github.com/upcomingretreats/upcomingretreats.github.io">here</a> and all credits go to <a href="https://logomakr.com/">Logomakr</a> for the logo design.
     </p>
     </footer>
     </body>
