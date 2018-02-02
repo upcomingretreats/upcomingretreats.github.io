@@ -74,7 +74,7 @@ def html_footer():
     The existence of this website does not imply any affiliation with or endorsement by the official Dhamma.org organization.
     </p>
     <p>
-    For more information, feel free to research Vipassana Mediation or click <a href="https://github.com/upcomingretreats/upcomingretreats.github.io">here</a> to get started.
+    For more information, feel free to research Vipassana Mediation or click <a href="https://www.dhamma.org">here</a> to get started.
     </p>
     <p>
     Source code can be found <a href="https://github.com/upcomingretreats/upcomingretreats.github.io">here</a> and all credits go to <a href="https://logomakr.com/">Logomakr</a> for the logo design.
